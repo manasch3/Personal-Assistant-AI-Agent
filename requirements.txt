@@ -1,0 +1,23 @@
+# Core framework
+langchain
+langchain-core
+langchain-community
+langgraph
+
+# LLM provider
+langchain-deepseek
+
+# Tools
+langchain-tavily
+wikipedia
+simpleeval
+google-api-python-client
+google-auth-httplib2
+google-auth-oauthlib
+
+# Utilities
+python-dotenv
+python-dateutil
+requests
+pydantic
+rich
